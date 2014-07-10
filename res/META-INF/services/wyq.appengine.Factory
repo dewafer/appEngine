@@ -1,0 +1,5 @@
+wyq.appengine.component.ComponentFactory
+wyq.appengine.component.CompInitFactory
+wyq.appengine.component.RepositoryInitFactory
+wyq.appengine.component.ProxyFactory
+wyq.appengine.component.DaoInitFactory
